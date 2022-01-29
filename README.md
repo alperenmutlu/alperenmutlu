@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... XX -->
 <!--- 📫 How to reach me: ... -->
 - ⚡ Fun fact: ... THE BEAST AND THE BEST IN THE WORLD
+
 ![](https://komarev.com/ghpvc/?username=alperenmutlu&color=blue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlperenMutlu&theme=radical)
